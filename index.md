@@ -37,10 +37,10 @@ Since the lab requirement includes some elements that I'm unsure what to use on,
 - in case you want to jump to the top, [click here](#user-page).
 - setting *this text as italic*, **this as bold**, and ~~this as strike through~~
 
--[ ] this
--[ ] is
--[ ] a
--[x] task list
+- [ ] this
+- [ ] is
+- [ ] a
+- [x] task list
 
 - a python hello world code: 
 `` 
