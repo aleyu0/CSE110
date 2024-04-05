@@ -1,5 +1,5 @@
 # User Page
-Hi, my name is Alessio and I’m currently a second-year undergraduate majoring in **Computer Science & Engineering at UC San Diego**. 
+Hi, my name is Alessio and I’m currently a second-year undergraduate majoring in Computer Science & Engineering at UC San Diego. 
 
 ## Personal interests
 I'm Chinese by heritage, Italian by upbringing, educated in the United Kingdom, and now chasing knowledge in sunny San Diego. I love travelling and seeing what the world has to offer. Being raised in a restaurant-owning family, I also have a strong interest in tasting new cuisines and dishes! During my free time, I like to design, graphic design to be specific. I find it very cool how little components clashed together can form aesthetic masterpieces. 
@@ -8,6 +8,7 @@ I'm Chinese by heritage, Italian by upbringing, educated in the United Kingdom, 
 
 A funny quote I heard a lot when I was in high school was 
 > It's not a rejection, it's a redirection.
+
 I think this phrase has been carved into my mind because it tells me that failure is fine, as long as I learn the takeaways of the failure, and carry on. 
 
 ## About me as a programmer
