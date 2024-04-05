@@ -4,7 +4,7 @@ Hi, my name is Alessio and I’m currently a second-year undergraduate majoring 
 ## Personal interests
 I'm Chinese by heritage, Italian by upbringing, educated in the United Kingdom, and now chasing knowledge in sunny San Diego. I love travelling and seeing what the world has to offer. Being raised in a restaurant-owning family, I also have a strong interest in tasting new cuisines and dishes! During my free time, I like to design, graphic design to be specific. I find it very cool how little components clashed together can form aesthetic masterpieces. 
 
-[A picture I took before leaving Milan this summer](milan.png)
+![A picture I took before leaving Milan this summer](milan.png)
 
 A funny quote I heard a lot when I was in high school was 
 > It's not a rejection, it's a redirection.
