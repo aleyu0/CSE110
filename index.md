@@ -8,6 +8,7 @@ I'm Chinese by heritage, Italian by upbringing, educated in the United Kingdom, 
 
 A funny quote I heard a lot when I was in high school was 
 > It's not a rejection, it's a redirection.
+
 I think this phrase has been carved into my mind because it tells me that failure is fine, as long as I learn the takeaways of the failure, and carry on. 
 
 ## About me as a programmer
