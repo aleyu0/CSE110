@@ -7,6 +7,3 @@ assignees: aleyu0
 
 ---
 
-name: 
-description:
-more information:
